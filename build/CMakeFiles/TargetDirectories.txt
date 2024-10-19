@@ -1,0 +1,4 @@
+/media/adp/Новый том/Vidzet/ФИОТ/5/SP/SP_lab2/build/CMakeFiles/calculator.dir
+/media/adp/Новый том/Vidzet/ФИОТ/5/SP/SP_lab2/build/CMakeFiles/calculator_app.dir
+/media/adp/Новый том/Vidzet/ФИОТ/5/SP/SP_lab2/build/CMakeFiles/edit_cache.dir
+/media/adp/Новый том/Vidzet/ФИОТ/5/SP/SP_lab2/build/CMakeFiles/rebuild_cache.dir
